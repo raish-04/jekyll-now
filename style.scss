@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-image: url("https://s3.amazonaws.com/vf-images/wp-content/uploads/2013/09/stanley_donwood_cover.png");
+	background-image: url("http://ninertimes.com/wp-content/uploads/2016/05/Radiohead-album.jpg");
   font: 20px/1.4 ;
   color: #ffffff;
 }
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #ffffff;
+  color: #262626;
   font-weight: bold;
 
   line-height: 1.7;
@@ -117,7 +117,7 @@ width: 100%;
 
 table, th, td {
 border: 1px solid Gold;
-background-color:#0073e6;
+background-color:#8c8c8c;
 
 }
 
@@ -127,7 +127,7 @@ padding: 10px;
 }	
 
 th {
-color: Gold;
+color: White;
 background:#ffffff;
 height:50px;
 vertical-align: middle;
@@ -139,7 +139,7 @@ vertical-align: middle;
 
 .date {
   font-style: $helveticaNeue;
-  color: #e6b800;
+  color: #000000;
 }
 
 // Specify the color of the selection
