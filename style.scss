@@ -70,11 +70,11 @@ p {
 }
 	
 a {
-  color: #ffffff ;
+  color: #000000 ;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-  color:#ffffff ;
+  color:#000000 ;
   }
 }
 
@@ -116,7 +116,7 @@ width: 100%;
 }
 
 table, th, td {
-border: 1px solid Gold;
+border: 1px solid Black;
 background-color:#8c8c8c;
 
 }
