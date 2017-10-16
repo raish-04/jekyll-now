@@ -142,7 +142,7 @@ vertical-align: middle;
 
 .date {
   font-style: $helveticaNeue;
-  color: #000000;
+  color: #ffffff;
 }
 
 // Specify the color of the selection
@@ -217,7 +217,7 @@ vertical-align: middle;
 
 .site-name {
   margin: 0;
-  color: #000000;
+  color: #ffffff;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -227,7 +227,7 @@ vertical-align: middle;
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #000000;
+  color: #ffffff;
   font-size: 16px;
 
   @include mobile {
